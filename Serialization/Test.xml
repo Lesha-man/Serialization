@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Serialization ObjectName="Heloo my litle pony" X="0">
+	<NamedPoints PI="3.1415" one="1" three="3" two="2" />
+	<Trans>
+		<Scale Z="11.11" Y="2" X="123" />
+		<Rotation Z="3" Y="5" X="1" />
+		<Position Z="31.1" Y="2" X="1" />
+	</Trans>
+	<Transf>
+		<Scale Z="11.11" Y="2" X="123" />
+		<Rotation Z="3" Y="5" X="1" />
+		<Position Z="31.1" Y="2" X="1" />
+	</Transf>
+</Serialization>
